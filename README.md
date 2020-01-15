@@ -1,18 +1,16 @@
-## nyokumamu's portfolio
-
-### Profile
+## Profile
 
 hoge1
 
-### Skill
+## Skill
 
 hoge2
 
-### Works
+## Works
 
 hoge3
 
-### Contact
+## Contact
 
 hoge4
 
